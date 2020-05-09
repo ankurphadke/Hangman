@@ -2,6 +2,7 @@ import random
 from word_list import words
 from display import draw
 
+
 # play hangman
 
 def play():
@@ -103,6 +104,7 @@ def main():
 
     while input("Play Again? ('Y'/'N') ").upper() == "Y":
         play()
+
 
 if __name__ == "__main__":
     main()
