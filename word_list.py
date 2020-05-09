@@ -1,7 +1,6 @@
 
 
-# list of words for hangman
-
+# list of words for the game
 
 words = [
     "acres",

@@ -1,7 +1,6 @@
 
 
-# draw hangman
-
+# list of hangman stages
 
 def draw(attempts_left):
     stages = [
